@@ -1,7 +1,6 @@
 # Cherry
 Version - 1.0
 <br>
-<img src="https://github.com/AuroraSoftwares/Cherry/blob/main/images/cherry.png?raw=true">
+<img src="images/cherry.png">
 <br>
-Cherry is a simple but shorthand PHP library.
-
+Cherry is a simple but shorthand, multipurpose PHP library.
