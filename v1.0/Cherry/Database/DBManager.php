@@ -3,9 +3,9 @@
 
 	/**
 	 * <b>FILE : </b>DBManager.php<br>
-     * <b>COPYRIGHT : </b>©2021 | Aurora Softwares<br>
-     * <b>VERSION : </b>1.0
-	 */
+     	* <b>COPYRIGHT : </b>©2021 | Aurora Softwares<br>
+     	* <b>VERSION : </b>1.0
+	*/
 	class DBManager
 	{
 		private $sv;
