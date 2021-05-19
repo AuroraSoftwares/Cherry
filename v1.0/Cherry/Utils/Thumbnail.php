@@ -5,10 +5,10 @@
     Core::importSingleFile(dirname(dirname(__FILE__)).'/FileSystem/FileManager.php');
 
     /**
-	 * <b>FILE : </b>Thumbnail.php<br>
-     * <b>COPYRIGHT : </b>©2020 | AuroraSoftwares<br>
+     * <b>FILE : </b>Thumbnail.php<br>
+     * <b>COPYRIGHT : </b>Â©2021 | Aurora Softwares<br>
      * <b>VERSION : </b>1.0
-	 */
+     */
     class Thumbnail
     {
         /**
