@@ -1,10 +1,9 @@
 <?php
 	/**
 	 * <b>FILE : </b>FileManager.php<br>
-     * <b>COPYRIGHT : </b>©2021 | Aurora Softwares<br>
-     * <b>VERSION : </b>1.0
-	 */
-
+     	* <b>COPYRIGHT : </b>©2021 | Aurora Softwares<br>
+     	* <b>VERSION : </b>1.0
+	*/
 	class FileManager
 	{
 		private $pth;
@@ -19,7 +18,7 @@
 		{
 			$this -> pth = $filepath;
 			$this -> urlPth = strlen(strstr($filepath, "http:"))>0 || strlen(strstr($filepath, "https:"))>0;
-            $this -> fw = false;
+            		$this -> fw = false;
 		}
 
 		/**
