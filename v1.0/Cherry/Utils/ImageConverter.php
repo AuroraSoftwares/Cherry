@@ -6,10 +6,9 @@
 
 	/**
 	 * <b>FILE : </b>ImageConverter.php<br>
-	 * <b>COPYRIGHT : </b>©2020 | AuroraSoftwares<br>
-     * <b>VERSION : </b>1.0
+	 * <b>COPYRIGHT : </b>Â©2021 | Aurora Softwares<br>
+     	 * <b>VERSION : </b>1.0
 	 */
-
 	class ImageConverter
 	{
 		/**
