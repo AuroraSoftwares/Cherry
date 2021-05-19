@@ -1,7 +1,7 @@
 <?php
 	/**
 	 * <b>FILE : </b>FileManager.php<br>
-     * <b>COPYRIGHT : </b>©2020 | AuroraSoftwares<br>
+     * <b>COPYRIGHT : </b>Â©2021 | Aurora Softwares<br>
      * <b>VERSION : </b>1.0
 	 */
 
